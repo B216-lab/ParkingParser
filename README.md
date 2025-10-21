@@ -1,6 +1,6 @@
 # Парсер парковок и средних цен в местах общепита
 
-Инструкция
+## Инструкция
 1. Установить библиотеку - pip install parser-2gis
 2. Перейти в путь .venv\Lib\site-packages\parser_2gis\writer\writers\
 3. Заменить файл csv_writer.py на нужный
@@ -10,6 +10,6 @@
 -f тип файла
 
 # Файлы csv_writer *
-Original - Оригинальный
-Price - Средний чек
-Parking - Парковка
+**Original** - Оригинальный
+**Price** - Средний чек
+**Parking** - Парковка
